@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "merge": "node --experimental-json-modules index.js"
+  },
+  "type": "module"
+}
